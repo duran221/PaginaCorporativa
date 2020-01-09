@@ -1,0 +1,137 @@
+[14-Oct-2019 20:37:15 America/Bogota] Array
+(
+    [clase] => Envio
+    [accion] => enviarCorreo
+    [data] => Array
+        (
+            [name] => carolina quintero
+            [email] => caroquiva@gmail.com
+            [phone] => 334
+            [company] => jklj
+            [message] => hola este es un mensaje de ensayooo ok
+        )
+
+)
+
+[14-Oct-2019 20:37:15 America/Bogota] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\PaginaCorporativa\servicios\swiftmailer\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\EsmtpTransport.php on line 213
+[14-Oct-2019 20:45:57 America/Bogota] Array
+(
+    [clase] => Envio
+    [accion] => enviarCorreo
+    [data] => Array
+        (
+            [name] => carolina quintero
+            [email] => caroquiva@gmail.com
+            [phone] => 334
+            [company] => ljljlj
+            [message] => kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+        )
+
+)
+
+[14-Oct-2019 20:45:57 America/Bogota] PHP Parse error:  syntax error, unexpected '?' in C:\xampp\htdocs\PaginaCorporativa\servicios\swiftmailer\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\EsmtpTransport.php on line 213
+[14-Oct-2019 21:09:42 America/Bogota] Array
+(
+    [clase] => Envio
+    [accion] => enviarCorreo
+    [data] => Array
+        (
+            [name] => Cristian Duran
+            [email] => caroquiva@gmail.com
+            [phone] => 3123938213
+            [company] => CofeeCode
+            [message] => Mensaje de prueba pagina web terminada
+        )
+
+)
+
+[14-Oct-2019 21:11:09 America/Bogota] Array
+(
+    [clase] => Envio
+    [accion] => enviarCorreo
+    [data] => Array
+        (
+            [name] => Cristian Duran
+            [email] => caroquiva@gmail.com
+            [phone] => 3123938213
+            [company] => CofeeCode
+            [message] => Mensaje de prueba pagina web terminada
+        )
+
+)
+
+[14-Oct-2019 21:11:59 America/Bogota] Array
+(
+    [clase] => Envio
+    [accion] => enviarCorreo
+    [data] => Array
+        (
+            [name] => Cristian Duran
+            [email] => caroquiva@gmail.com
+            [phone] => 3123938213
+            [company] => CofeeCode
+            [message] => Mensaje de prueba pagina web terminada
+        )
+
+)
+
+[09-Jan-2020 11:17:01 America/Bogota] Array
+(
+    [clase] => Envio
+    [accion] => enviarCorreo
+    [data] => Array
+        (
+            [name] => Cristian Duran
+            [email] => cristianfernandoduran@gmail.com
+            [phone] => 3123938213
+            [company] => CofeeCode
+            [message] => PaginaCorporativa1\PaginaCorporativa
+        )
+
+)
+
+[09-Jan-2020 11:18:37 America/Bogota] Array
+(
+    [clase] => Envio
+    [accion] => enviarCorreo
+    [data] => Array
+        (
+            [name] => Cristian Duran
+            [email] => cristianfernandoduran@gmail.com
+            [phone] => 3123938213
+            [company] => CofeeCode
+            [message] => PaginaCorporativa1\PaginaCorporativa
+        )
+
+)
+
+[09-Jan-2020 11:20:58 America/Bogota] Array
+(
+    [clase] => Envio
+    [accion] => enviarCorreo
+    [data] => Array
+        (
+            [name] => Cristian Duran
+            [email] => cristianfernandoduran@gmail.com
+            [phone] => 3123938213
+            [company] => CofeeCode
+            [message] => PaginaCorporativa1\PaginaCorporativa
+        )
+
+)
+
+[09-Jan-2020 11:24:07 America/Bogota] Array
+(
+    [clase] => Envio
+    [accion] => enviarCorreo
+    [data] => Array
+        (
+            [name] => Cristian Duran
+            [email] => cristianfernandoduran@gmail.com
+            [phone] => 3123938213
+            [company] => Prueba
+            [message] => Prueba mensaje sa
+        )
+
+)
+
